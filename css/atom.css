@@ -19,5 +19,5 @@ p {
     font-size: 25px;
     -webkit-user-select: none;
     user-select: none;
-    transition: opacity 10s ease-in-out;
+    transition: opacity 5s ease-in-out;
 }
